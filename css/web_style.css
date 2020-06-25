@@ -1,0 +1,23 @@
+li{
+    display: inline;
+    margin-left: 18%;
+    padding-top: 10%;
+
+}
+ul{
+    padding-top: 3%;
+
+}
+.center {
+    max-width: 100%;
+    height: auto;
+    display: block;
+
+
+  }
+  .flex
+  {
+      display:flex;
+      background: red;
+      justify-content :space-between;
+  }
